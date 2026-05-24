@@ -14,7 +14,7 @@
 
 # Case Crackers with Claude — Outline
 
-**Author:** Nik Bear Brown
+**Author:** Humanitarians AI
 
 ---
 

@@ -12,7 +12,7 @@
 
 # Case Crackers with Claude
 
-**Author:** Nik Bear Brown
+**Author:** Humanitarians AI
 
 ---
 
