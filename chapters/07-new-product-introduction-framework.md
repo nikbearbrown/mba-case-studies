@@ -1,142 +1,144 @@
 # Chapter 7 — New Product Introduction Framework
 
-In 1985, Coca-Cola launched New Coke.
-
-The company had done everything right by conventional standards. Blind taste tests showed that consumers preferred the new formula over both the original Coke and Pepsi. The research was rigorous, the sample sizes large, the methodology sound. The product tasted better, demonstrably, to the people who would buy it. By the logic of consumer goods marketing, this should have been a straightforward success.
-
-It was a catastrophe. Within weeks, consumers were calling the company's hotline in outrage — 400,000 calls and letters in the first months. The company reversed course seventy-nine days after launch, bringing back "Coca-Cola Classic." New Coke disappeared within a few years.
-
-What went wrong is instructive. The taste tests measured one thing — flavor preference in a blind, isolated comparison — while the product's actual value to consumers included something the tests didn't capture: the meaning of Coke, the nostalgia, the identity, the ritual of a cold original Coke on a hot day. The research was right about taste and completely wrong about the product. What Coca-Cola was actually selling was not a beverage formula. It was a cultural artifact. Changing the formula was not perceived as an improvement; it was perceived as a betrayal.
-
-This is the central challenge of new product introduction, and it is why frameworks are necessary but not sufficient. A framework can structure your analysis. It cannot substitute for actually understanding what product you're launching and why customers would want it.
+*What Coca-Cola got right, got wrong, and what that distinction costs you.*
 
 ---
 
-## What New Product Introduction Problems Actually Ask
+In 1985, Coca-Cola did everything right.
 
-Before the analytical machinery, a clarification about what this problem type is and what it is not.
+The company ran rigorous blind taste tests with large, methodologically sound samples. Consumers, given two unmarked cups, consistently preferred the new formula over both original Coke and Pepsi. The evidence was unambiguous. By the logic of consumer goods marketing, what followed should have been a textbook success story.
 
-New product introduction cases come in two basic shapes. The first is a company considering launching an entirely new product — something that doesn't exist in their current portfolio and may not exist in the market at all. The second is a company considering bringing an existing product into a new geographic market. These are structurally similar problems, but they differ in one important way: the first requires you to assess whether the product concept itself will create value for customers, while the second requires you to assess whether an already-validated product can create value in a new context.
+Within weeks of launch, the company's hotline was receiving 400,000 calls and letters. The product was pulled seventy-nine days after introduction. "New Coke" became a synonym for corporate catastrophe.
 
-The Coca-Cola problem belongs to the first category, as does any genuinely novel innovation. The challenge is that you don't have direct evidence of what customers will do; you have research proxies and analogies and judgment. The second category — geographic expansion of an existing product — has more empirical grounding: the product works somewhere, and the question is whether the conditions that made it work there also exist here.
+What failed was not the research. The research was correct. What failed was the question the research was answering. The taste tests measured preference for a flavor in an isolated blind comparison. But what Coca-Cola was actually selling was not a beverage formula. It was a cultural artifact — nostalgia, identity, ritual, the meaning of a cold Coke on a summer afternoon. Changing the formula wasn't perceived as an improvement. It was perceived as a betrayal of something that belonged to the people who drank it.
 
-Both shapes require the same framework. But the nature of the evidence you can assemble, and the degree of uncertainty that remains after analysis, differs substantially between them.
+This is the central problem of new product introduction, and understanding it is more useful than any framework. A framework can organize your analysis. It cannot substitute for correctly identifying what product you are actually launching and what customers actually value about it. If you get that prior question wrong, your framework produces precise, rigorous analysis of the wrong thing.
 
-The other thing to clarify upfront: the client's goals drive what "success" means, and you need to establish this before any framework gets applied. A company launching a new product to defend market share against a competitive threat has a different success threshold than a company launching to capture a new revenue stream. A startup launching its first product needs to achieve viability; a large company extending its portfolio needs to achieve a return on investment that exceeds what it could earn deploying the same capital elsewhere. What constitutes a satisfactory analysis depends on what constitutes a satisfactory outcome.
-
-So before the framework: ask what the company does, what the product is and what specific customer need it addresses, who the target customer is, what the company's strategic motivation for the launch is, and which parts of the value chain the company plans to manage internally versus outsource. These questions take ninety seconds to ask and orient everything that follows.
+So before the mechanics: the question that has to come first is not "will the market accept this?" It is "what is this, to the person who would buy it?"
 
 ---
 
-## The Three Analytical Components
+## Two Shapes of the Problem
 
-The new product introduction framework has three sequential components. The word sequential matters: the third component (financial analysis) cannot be done responsibly without completing the first two (financing and value chain configuration), and the second cannot be done without the first. Each component builds on what preceded it, and rushing ahead produces analysis that looks rigorous but isn't.
+New product introduction cases come in two structurally distinct forms, and conflating them is a common source of analytical error.
 
----
+The first is a genuinely new product — something that doesn't exist in the company's current portfolio and may not exist in the market at all. The challenge here is that you have no direct evidence of what customers will actually do. You have research proxies, analogies to adjacent products, and judgment. New Coke belongs to this category, as does any genuine innovation. The uncertainty is irreducible: even excellent research can miss the dimension that matters most.
 
-### Component One: Financing
+The second is geographic expansion of an existing product — a company bringing something that already works in one market into a new one. This is structurally similar but epistemically easier: the product has been validated somewhere. The question becomes whether the conditions that made it work there also exist in the new context. The product isn't hypothetical. Its failure modes in the new market are more specific and more tractable.
 
-The first question is not whether the market is attractive or whether customers will want the product. The first question is whether the company can fund the launch at all, and if so, how.
+Both shapes use the same analytical framework. But the degree of confidence you can place in your conclusions differs substantially. For genuine innovations, the framework organizes uncertainty. For geographic expansions, it helps identify which specific conditions need to hold.
 
-This seems like a strange place to start. Surely you should assess whether the opportunity is good before worrying about whether you can pay for it? But there is a disciplined reason to begin here. If the financing options available to the company are severely constrained, that constraint shapes every subsequent decision — including the entry mode, the speed of the launch, the scope of the initial product, and the geographic footprint. Starting with financing prevents the failure mode of doing excellent strategic analysis that produces an unimplementable recommendation.
+One more thing to establish before any framework is applied: what does success mean for this client? A company launching a new product to defend market share against a competitive threat has a different success threshold than one launching to capture a new revenue stream. A startup launching its first product needs to achieve viability. A large company extending its portfolio needs to earn a return that exceeds what it could generate deploying the same capital elsewhere. These are different problems. Knowing which one you're solving changes what you're looking for in the analysis.
 
-Financing sources fall into three categories with fundamentally different implications.
-
-**Self-financing** means using the company's existing cash, retained earnings, or internal capital allocation. The advantage is that it requires no external negotiations, no dilution of ownership, and no interest cost. The disadvantage is that it ties up capital that could be deployed elsewhere, and it is constrained by the company's existing cash position. A company with strong cash generation and a healthy balance sheet can self-finance a product launch without difficulty. A company already stretched by capital requirements in its core business cannot.
-
-**Debt financing** means borrowing — bank loans, bonds, revolving credit facilities, or some combination. The advantage is that ownership isn't diluted and the capital is available in scale. The disadvantage is that debt has a fixed cost (interest) that must be serviced regardless of whether the product succeeds, and excessive leverage creates financial fragility. If the product launch underperforms and revenue comes in below projection, a highly leveraged company may face a genuinely dangerous situation. The appropriate level of debt financing depends on the confidence interval around the revenue projections — the more uncertain the outcome, the more conservative the financing structure should be.
-
-**Equity financing** means raising external capital in exchange for ownership: venture capital, private equity, strategic investors, or a public offering. The advantage is that equity capital doesn't require servicing — there is no interest payment, no fixed obligation. The disadvantage is dilution: existing owners receive a smaller fraction of future value. Equity financing is most appropriate when the product launch requires large upfront investment, the payback period is long, and the outcome is sufficiently uncertain that the flexibility of non-debt capital is worth the dilution cost.
-
-In practice, most large-company product launches are self-financed from operating cash flow, with debt as a supplement for larger initiatives. Startup product launches are typically equity-financed, at least in early stages. The appropriate structure for a specific launch depends on the capital requirement, the risk profile of the project, and the existing financial structure of the company.
+So: ask what the company does, what specific customer need the product addresses, who the target customer is, what the company's strategic motivation is, and which parts of the value chain it intends to own versus outsource. These questions take ninety seconds. They orient everything that follows.
 
 ---
 
-### Component Two: Value Chain Configuration
+## The Three Questions, in Order
 
-With financing established, the second component asks how the product will actually get made and delivered. This is the value chain question applied specifically to a new product launch, and it involves a series of make-or-buy decisions at each stage of the chain.
+The framework has three sequential components. The sequence matters. The third cannot be done responsibly without the second, and the second cannot be done without the first. Rushing ahead produces analysis that looks rigorous without actually being so.
 
-The four stages with the most significant strategic implications for a new product launch are procurement, production, distribution, and marketing.
+The three questions are: how will this be financed? how will the product actually get made and delivered? and given those answers, does the financial case hold?
 
-**Procurement** asks how the product's inputs will be sourced. For a genuinely new product, this often means establishing entirely new supplier relationships. The relevant questions: are the required inputs available at acceptable cost from reliable suppliers? Are there single-source dependencies that create fragility — situations where only one supplier globally can provide a critical component, giving them pricing power and the company no alternatives? Are there intellectual property implications to procurement — situations where using a particular supplier's components constrains the company's design freedom or creates technology dependencies?
+### Financing
 
-For a product being launched in a new geography, procurement asks whether existing supplier relationships extend cost-effectively to the new market or whether new local sourcing is required. Local sourcing often reduces logistics cost and allows faster response to demand fluctuations, but it requires establishing and vetting new supplier relationships — an investment that takes time and carries quality risk.
+The first question is not whether the market is attractive. It is whether the company can fund the launch at all, and on what terms.
 
-**Production** asks where and how the product will be manufactured. The options are manufacturing it yourself (requires capital investment in production capacity, either new facilities or retooling existing ones), contract manufacturing (outsourcing production to a third party, which eliminates capital investment and fixed cost but reduces control over quality and production scheduling), or licensing the design to a local manufacturer (the lightest-capital option, but with the most loss of control).
+This seems like a strange place to begin. Shouldn't you assess whether the opportunity is good before worrying about paying for it? The reason to start with financing is disciplinary: if the company's capital options are severely constrained, that constraint shapes every subsequent decision — the entry mode, the launch scope, the speed of rollout, the geographic footprint. Starting with financing prevents the failure mode of doing excellent strategic analysis that produces a recommendation the company cannot implement.
 
-The production decision interacts directly with the financing decision. A self-manufacturing approach is capital-intensive upfront but gives the company full margin and full control. Contract manufacturing conserves capital but shares margin with the contractor and introduces dependency. The right answer depends on how central production capability is to the company's competitive advantage in this product.
+The three financing options have fundamentally different implications.
 
-**Distribution** asks how the product will reach customers. In an existing market, a company typically has established distribution channels — direct sales, retail partnerships, wholesale relationships, e-commerce — and the question is whether those channels are appropriate for the new product or whether new channels need to be built. A company that sells to professional customers through direct sales may find that a consumer product requires mass retail distribution it has no experience with.
+Self-financing uses the company's existing cash or internal capital allocation. It requires no external negotiations, creates no dilution, carries no interest cost. Its constraint is the company's existing balance sheet — a company already capital-constrained by its core business cannot self-finance a large launch without crowding out other investments.
 
-In a new geographic market, distribution is often the most significant barrier to entry. Local distribution networks are frequently relationship-dependent — retailers and wholesalers work with partners they know, and new entrants face the chicken-and-egg problem that building volume requires distribution access and distribution access requires volume. The options for resolving this are acquiring a local distributor, partnering with one through a joint venture or exclusive arrangement, or building distribution organically over time, which is slow and expensive.
+Debt financing means borrowing: bank loans, bonds, revolving facilities. Capital is available at scale, ownership isn't diluted. But debt has a fixed servicing cost regardless of whether the product succeeds. The dangerous scenario is a product launch that underperforms its projections in a company that has levered up to fund it — the fixed interest obligation remains even as revenue disappoints. The appropriate level of debt financing scales inversely with the uncertainty of the revenue projections: the less confident you are in the outcome, the more conservative the capital structure should be.
 
-**Marketing** asks how customers will find out about the product and be persuaded to try it. This is a different question for new products than for product extensions, because new products require customers to change their behavior — to adopt something they've never used before — while extensions benefit from the credibility and familiarity of the existing brand.
+Equity financing means exchanging ownership for capital — venture investment, strategic partners, a public offering. Equity carries no fixed servicing cost, which makes it appropriate for launches with large upfront investment, long payback periods, and genuinely uncertain outcomes. The cost is dilution: existing owners capture a smaller share of future value.
 
-The marketing investment required for a genuinely new product is typically underestimated. Awareness of the product category has to be created, not just preference for a particular brand within an existing category. The Coca-Cola problem arose partly because the marketing for New Coke focused entirely on taste preference within an existing category without engaging the brand meaning dimension. New product marketing needs to address both the functional value proposition (what does this do?) and the identity/context value proposition (how does this fit into the customer's life?).
+Most large-company product launches are self-financed, with debt as a supplement for larger initiatives. Startups are typically equity-financed in early stages. The right structure for a specific launch depends on the capital requirement, the risk profile, and the existing financial position of the company.
 
-The marketing mix decision — which channels to use, in what proportions, at what cost — is ultimately an efficiency question: which combination of channels generates the most customer acquisition at the lowest cost per acquisition, given the specific product and target customer segment? This calculation will vary enormously across product types, customer demographics, and geographic markets.
+<!-- → [TABLE: three-column comparison — Financing Type | Key Advantage | Key Risk — rows: Self-financing, Debt, Equity — with a fourth row indicating when each is most appropriate] -->
+
+### Value Chain Configuration
+
+With financing established, the second component asks how the product will actually reach customers. This is a series of make-or-buy decisions at each stage of the chain. The four stages with the most strategic significance for a new product launch are procurement, production, distribution, and marketing.
+
+**Procurement** asks how the product's inputs will be sourced. For a genuinely new product, this typically means establishing new supplier relationships. The relevant concerns: are required inputs available at acceptable cost from reliable sources? Are there single-source dependencies — situations where only one supplier globally can provide a critical component, giving them pricing power and the company no alternatives? For geographic expansion, the question becomes whether existing supplier relationships extend cost-effectively to the new market, or whether local sourcing is required. Local sourcing often reduces logistics cost and allows faster demand response, but requires establishing and vetting new relationships — an investment that takes time and carries quality risk.
+
+**Production** asks where and how the product will be manufactured. The options run from full vertical integration (manufacturing internally, capital-intensive but margin-preserving and control-preserving) to contract manufacturing (outsourcing production, which eliminates fixed capital investment but shares margin and introduces dependency) to licensing (lightest capital commitment, most loss of control). The right point on this spectrum depends on how central production capability is to the company's competitive advantage in this particular product. If the manufacturing process is where the differentiation lives, outsourcing it is a strategic mistake regardless of the capital savings.
+
+**Distribution** asks how the product will reach customers, and in a new geographic market this is frequently the most significant barrier to entry. Local distribution networks are relationship-dependent: retailers and wholesalers work with partners they know, and new entrants face a chicken-and-egg problem — building volume requires distribution access, but distribution access requires demonstrated volume. The options for resolving this are acquiring a local distributor, partnering with one through a joint venture or exclusive arrangement, or building distribution organically. The last option is slow and expensive. The first two require finding a willing partner, which requires the company to have something the distributor wants.
+
+**Marketing** asks how customers will learn about the product and be persuaded to try it. This is a different problem for genuinely new products than for extensions. Extensions benefit from brand familiarity: customers already know what the brand stands for, and the new product inherits that credibility. New products have to establish both awareness of the category and preference within it. Both problems cost money, and the cost is typically underestimated.
+
+The New Coke failure was partly a marketing failure of this kind. The campaign focused entirely on taste preference — treating Coke as a commodity beverage in a competitive blind test — without engaging the dimension of brand meaning that made Coke what it was to its customers. When you launch a genuinely new product, you have to answer not just "what does this do?" but "how does this fit into the customer's life, and why should they change their existing behavior to include it?"
+
+The marketing mix decision — which channels to use, in what proportions, at what cost — is an efficiency question: which combination generates the most customer acquisition at the lowest cost per acquisition, given the specific product and target segment? That calculation varies enormously across product types, demographics, and geographies. The honest answer in a case interview is usually to structure the question correctly and demonstrate the reasoning, not to produce a specific number.
+
+<!-- → [INFOGRAPHIC: four-stage value chain diagram — Procurement → Production → Distribution → Marketing — each node annotated with its core make-or-buy question and the primary risk at that stage; should read left-to-right as a sequence, not a list] -->
+
+### Financial Analysis and Break-Even
+
+With financing and value chain configuration established, the third component builds the financial case. The qualitative analysis becomes quantitative, and the question shifts from "can we do this" to "should we do this."
+
+The core relationship is:
+
+$$\text{Profit} = (\text{Units Sold} \times \text{Price}) - \text{Variable Costs} - \text{Fixed Costs}$$
+
+Simple as a formula. Making it useful requires defensible estimates for each term, and that is where the work lives.
+
+Units sold is the product of market share and total addressable market volume. Total market volume requires a sizing estimate — potential customers times average annual spend. Market share requires a judgment about realistic capture rates given competitive dynamics and the company's go-to-market capability. The market share assumption is typically the most contested input in any product launch analysis. New entrants in established markets rarely achieve more than low single-digit share in early years, even with demonstrably superior products. Exceptions exist — products with viral components, regulatory tailwinds, or unique distribution advantages — but they are exceptions. Projecting 20% share in year two, absent a specific mechanism that explains it, is a flag.
+
+Price is constrained by what customers will pay given competitive alternatives and their perception of the product's value. A product priced significantly above comparable alternatives needs a correspondingly significant value advantage. A product priced at parity may gain adoption but may struggle to recover launch costs. The relevant question is not what the company would like to charge but what the market will bear — those are frequently different numbers.
+
+Variable costs are the per-unit costs that scale with production: materials, manufacturing, packaging, distribution. These come directly from the value chain analysis. Note that variable costs typically decline as volume increases — production processes become more efficient, supplier relationships mature, logistics become more predictable. Early-stage unit economics often look worse than long-run unit economics, which means a launch that looks marginal in year one may look healthy by year three, if it survives long enough to reach scale.
+
+Fixed costs are the upfront and ongoing costs that don't scale with volume: R&D (already spent by launch time, but needing recovery), production facility investment, marketing campaigns, overhead. These costs are incurred regardless of whether the product sells. That irreversibility creates the break-even dynamic.
+
+Break-even volume answers the question: at what point does the product become profitable?
+
+$$\text{Break-even volume} = \frac{\text{Fixed Costs}}{\text{Price} - \text{Variable Cost per Unit}}$$
+
+The denominator — price minus variable cost per unit — is the contribution margin: what each unit sold contributes toward covering fixed costs. High contribution margin means break-even is reached at relatively low volume. Low contribution margin means the launch requires high volume to become viable, which increases exposure to any shortfall in market penetration.
+
+The strategic use of break-even analysis is in stress-testing the launch decision. If break-even requires 5% market share within two years, and you have specific reasons to believe 5% is achievable, the financial case is plausible. If break-even requires 25% share, you are depending on a penetration rate that very few new products achieve — and that dependency should drive either a reconsideration of the launch economics or a very clear articulation of the specific mechanism that makes 25% achievable in this case.
+
+<!-- → [CHART: break-even diagram — revenue line and total cost line crossing at break-even volume — include a note showing how a lower contribution margin flattens the revenue slope and pushes break-even to the right] -->
 
 ---
 
-### Component Three: Financial Analysis and Break-Even
+## What Can Go Wrong
 
-With financing and value chain configuration established, the third component builds the financial case for the launch. This is where the qualitative analysis becomes quantitative, and where the question shifts from "can we do this" to "should we do this."
+The financial model produces a base case. A complete analysis requires working through what happens if the base case is wrong — and in what direction.
 
-The core calculation is:
+Market acceptance risk is the risk that customers don't adopt at the projected rate. It is the most common failure mode for new products and the hardest to predict in advance. New Coke is extreme; milder versions — technically superior products that failed because switching costs were too high, distribution was too narrow, or the marketing message didn't connect — happen constantly across every industry. The mitigation that actually works is staged rollout: launch in a limited geography or segment, measure actual adoption against projection, and scale only after confirmation. A company that insists on global rollout before any validation data is available is accepting a risk it doesn't need to accept.
 
-**Profit = (Units Sold × Price) − Variable Costs − Fixed Costs**
+Competitive response risk is the risk that incumbents react more aggressively than projected. An established competitor with deep pockets and strong distribution can respond to a new entrant with price cuts, accelerated product development, or exclusive channel arrangements. The severity of this risk is proportional to how directly the new product threatens the incumbent's highest-margin business. A product attacking the core of a dominant competitor's position will elicit a qualitatively different response than one addressing an underserved niche the incumbent has ignored.
 
-This formula is simple. Making it useful requires defensible estimates for each component, which is where most of the analytical work lies.
+Operational execution risk is the near-certainty that the value chain configuration will encounter friction. New supplier relationships underperform. Production ramp-up costs more and takes longer than projected. Distribution partners don't prioritize the new product. These risks materialize to some degree on virtually every product launch; the question is whether they're severe enough to require plan revision or merely uncomfortable enough to require management attention.
 
-**Units sold** is the product of market share and total market volume. Total market volume requires a market sizing analysis — estimating the total number of potential customers and the average annual spend per customer. Market share requires a judgment about how much of that total volume the new product can realistically capture, at what pace, given the competitive dynamics and the company's go-to-market capability.
+Scenario analysis asks: if revenue comes in 30% below the base case, what happens? Is the company still solvent? Can it sustain the launch long enough to identify what went wrong and course-correct? Products with long time-to-profitability and limited financial flexibility are exposed here — they need the base case to be roughly right, because they cannot survive the downside.
 
-The market share assumption is typically the most contested input. New entrants in established markets rarely achieve more than low-to-mid single-digit share in the first few years, even with genuinely superior products. The exceptions — products that grow to 20% or 30% share quickly — tend to have either a viral component, a regulatory tailwind, or a unique distribution advantage. Without one of these, projecting high share capture in early years is optimistic in a way that should trigger scrutiny.
-
-**Price** should be set not at what the company would like to charge, but at what the market will bear given the competitive alternatives and the customer's perceived value. The pricing framework in the next chapter addresses this in depth, but the relevant principle here is that price is not a free variable — it is constrained by what customers will pay for the product relative to alternatives. A new product priced significantly above comparable alternatives needs a correspondingly significant value advantage. A new product priced at parity with alternatives may gain adoption but may struggle to generate sufficient margin to recover development and launch costs.
-
-**Variable costs** are the per-unit costs of production, materials, packaging, and distribution. These should be estimated from the value chain analysis — what the procurement, production, and distribution configuration implies for per-unit cost at the projected volume. Note that variable costs often decline with volume as production processes become more efficient and supplier relationships mature, which means early-stage unit economics may look worse than long-term unit economics.
-
-**Fixed costs** are the upfront and ongoing costs that don't scale with volume: R&D investment (which has already been spent by the time of launch, but represents a cost that needs to be recovered), production facility investment, marketing campaign costs, management overhead. These costs are incurred regardless of whether the product sells, which creates the break-even dynamic.
-
-**Break-even analysis** asks: at what volume does the product become profitable? The formula is:
-
-**Break-even volume = Fixed Costs ÷ (Price − Variable Cost per Unit)**
-
-The denominator — price minus variable cost per unit — is the contribution margin: the amount each unit sold contributes toward covering fixed costs and generating profit. A high contribution margin means the company reaches break-even quickly relative to volume. A low contribution margin means break-even requires very high volume, which increases the risk of the launch if market penetration is slower than projected.
-
-The strategic use of break-even analysis is in testing the robustness of the launch decision. If break-even requires capturing 5% of the addressable market within two years, and the company has good reasons to believe 5% is achievable, the financial case is plausible. If break-even requires 25% share, the launch economics depend on a market penetration rate that very few new products achieve, and the case for launch becomes much harder to make convincingly.
+<!-- → [TABLE: risk taxonomy — three rows, one per risk type (Market Acceptance, Competitive Response, Operational Execution) — columns: Risk Type | What Triggers It | Severity Factors | Primary Mitigation — student should be able to use this as a diagnostic checklist when stress-testing a launch case] -->
 
 ---
 
-## Risk-Benefit Analysis: The Cases You Have to Make
+## The Prior Question the Framework Cannot Answer
 
-The financial model produces a base case. What makes the analysis complete is working through the scenarios on either side of the base case — the upside case and the downside case — and identifying specifically what would have to go wrong for the launch to fail.
+Return to Coca-Cola one more time.
 
-Risks that deserve explicit treatment in a new product introduction:
+A framework analysis of New Coke in 1985 would have found no obvious problem. The financing was trivial — the company had ample cash. The value chain was already in place — existing manufacturing, existing distribution. The market was enormous and loyal. The financial case, built on consolidating formulas and maintaining volume, was straightforwardly positive. Break-even was not a meaningful concern for a company the size of Coca-Cola.
 
-**Market acceptance risk** is the risk that customers don't adopt the product at the rate projected. This is the most common failure mode for new products and the hardest to predict in advance. The Coca-Cola example is extreme, but milder versions — products that were technically superior to alternatives but failed to gain adoption because switching costs were too high, distribution was too narrow, or the marketing message didn't land — are common across almost every industry. The mitigation is staged rollout: launch in a limited geography or customer segment first, validate the adoption rate, and scale only after confirmation.
+The framework found nothing wrong because the problem wasn't in any of the framework's components. The problem was prior to the framework. It was in the specification of what the product actually was.
 
-**Competitive response risk** is the risk that existing market participants react to the new entrant more aggressively than projected. An established competitor with deep pockets and a strong distribution position can respond to a new entrant with price cuts, accelerated product development, or exclusive channel arrangements that choke off distribution access. The severity of this risk depends on how much the new product threatens the incumbent's core business. A product that attacks the incumbent's highest-margin segment will elicit a more aggressive response than one that addresses an underserved niche.
+Coca-Cola answered the question "do customers prefer this flavor?" when the relevant question was "what do customers value about Coca-Cola?" Those are not the same question. The research methodology was correct for the question asked. The question asked was wrong.
 
-**Operational execution risk** is the risk that the value chain configuration doesn't work as smoothly as planned. New supplier relationships underperform. Production ramp-up takes longer and costs more than projected. Distribution partners don't prioritize the new product. These execution risks are almost certain to materialize to some degree — the question is whether they're severe enough to delay launch or require plan revision.
+This is the failure mode the framework cannot protect against. The framework assumes you have correctly identified what product you're analyzing and what customers value about it. If that identification is wrong — if the product is not, in the customer's mind, what the company thinks it is — then the framework's inputs are misspecified and its outputs are wrong regardless of how carefully the analysis is executed.
 
-**Financial scenario analysis** should address what happens if revenue comes in 30% below the base case. Is the company still solvent? Can it sustain the launch long enough to course-correct, or does it face a cash crisis? Products with long time-to-profitability and limited financial flexibility are particularly exposed to adverse scenarios.
+The discipline the framework teaches is necessary. Necessary is not the same as sufficient. The cases where new products fail despite adequate financing, well-configured value chains, and favorable financial projections are almost always cases where the company didn't correctly understand what they were launching — what need it served, what meaning it carried, what the customer was actually buying.
 
----
+That understanding has to come from actually watching customers — not asking them what they prefer in a controlled comparison, but observing what they do and what matters to them in the context of their actual lives. Feynman, teaching physics, was insistent on this distinction: there is a difference between knowing the name of something and knowing how it actually works. Knowing that customers "prefer the taste" is not the same as knowing what Coke means to them. The first is a name. The second is the thing itself.
 
-## The New Coke Problem, Revisited
-
-Return to Coca-Cola for a moment, because it illuminates something the framework by itself does not.
-
-The framework would have identified the product (formula change), the financing (internally funded, no issue), the value chain (existing distribution and manufacturing), the market (enormous and loyal), and the financial case (cost savings from consolidating formulas). All four components looked fine. The break-even analysis was trivially favorable.
-
-What the framework doesn't contain is a slot for "what is this product, actually, to the customer who buys it?" That question is prior to the framework. It is the question that determines whether the framework's inputs are correctly specified.
-
-New Coke failed because the company answered the wrong question. They asked "do customers prefer this taste?" when the relevant question was "what do customers value about Coca-Cola?" These are not the same question, and they have different answers.
-
-The discipline the framework teaches is necessary. It is not sufficient. The cases where new products fail despite adequate financing, well-configured value chains, and favorable financial projections are almost always cases where the company didn't correctly understand what product they were actually launching — what need it served, what meaning it carried, what alternatives it competed against in the customer's mind. The framework organizes the analysis. Understanding the product is what the analysis has to be about.
-
-That understanding cannot be read off a framework. It requires the kind of genuine inquiry into customer behavior that Feynman would recognize: not asking what you expect to find, but watching what actually happens when you look carefully at the thing itself.
+The framework organizes your analysis once you know what you're analyzing. Figuring out what you're actually analyzing — that's the work that determines whether the framework produces insight or elaborate precision about the wrong question.
 
 ---
 
