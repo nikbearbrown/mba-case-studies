@@ -1,4 +1,4 @@
-# Chapter 7 — New Product Introduction Framework
+# Chapter 6 — New Product Introduction Framework
 
 *What Coca-Cola got right, got wrong, and what that distinction costs you.*
 

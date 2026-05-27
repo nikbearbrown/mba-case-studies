@@ -1,4 +1,4 @@
-# Chapter 20 — Reading the Room: McKinsey, BCG, and Bain Interview Styles
+# Chapter 18 — Reading the Room: McKinsey, BCG, and Bain Interview Styles
 
 *The format is the message — and ignoring it is a strategic mistake.*
 

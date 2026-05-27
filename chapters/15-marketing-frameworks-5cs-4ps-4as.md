@@ -1,4 +1,4 @@
-# Chapter 16 — Marketing Frameworks: 5C's, 4P's, and 4A's
+# Chapter 15 — Marketing Frameworks: 5C's, 4P's, and 4A's
 
 *Four letters that survived sixty years — and why that isn't an accident.*
 

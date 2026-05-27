@@ -1,4 +1,4 @@
-# Chapter 6 — Market Entry Framework
+# Chapter 5 — Market Entry Framework
 
 *Why the bet has two parts, and why collapsing them is the most expensive mistake in strategy.*
 

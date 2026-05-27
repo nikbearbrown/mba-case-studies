@@ -1,4 +1,4 @@
-# Chapter 8 — Pricing Framework
+# Chapter 7 — Pricing Framework
 *The Value Is Not in the Thing.*
 
 Here is a question that sounds simple and isn't: what is something worth?

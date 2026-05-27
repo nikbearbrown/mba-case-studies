@@ -1,4 +1,4 @@
-# Chapter 12 — Common Frameworks: SWOT and PESTEL
+# Chapter 11 — Common Frameworks: SWOT and PESTEL
 
 *Why the most widely used tools in strategy are also the most widely misunderstood — and what they are actually for.*
 

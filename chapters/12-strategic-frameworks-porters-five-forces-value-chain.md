@@ -1,4 +1,4 @@
-# Chapter 13 — Strategic Frameworks: Porter's Five Forces and Value Chain
+# Chapter 12 — Strategic Frameworks: Porter's Five Forces and Value Chain
 
 *Why the rules of the game matter more than how well you play it.*
 

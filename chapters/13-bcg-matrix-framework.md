@@ -1,4 +1,4 @@
-# Chapter 14 — BCG Matrix Framework
+# Chapter 13 — BCG Matrix Framework
 *Not All Businesses Deserve the Same Strategy — and Treating Them Identically Destroys Value.*
 
 In 1970, Bruce Henderson wrote a memo for the Boston Consulting Group's clients titled "The Product Portfolio." It was two pages long. It introduced a framework that would reshape how corporations thought about capital allocation for the next fifty years.

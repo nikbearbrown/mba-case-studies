@@ -1,4 +1,4 @@
-# Chapter 19 — The Landscape of Case Interviews: Formats, Types, and What Each Is Testing
+# Chapter 17 — The Landscape of Case Interviews: Formats, Types, and What Each Is Testing
 
 *Why "prepare for case interviews" is like saying "prepare for sports" — the category contains more variation than the name suggests.*
 
@@ -62,9 +62,9 @@ Independent of format and delivery mode, case interview problems fall into recog
 
 Profitability cases are the most foundational. A company's profits are declining, or margins are compressing, or a division is underperforming. The analytical structure decomposes profit into revenue and costs, then decomposes each into its drivers: revenue into price and volume, volume into market size and market share; costs into fixed and variable, then into the value chain stages where costs are concentrated.
 
-Market entry cases ask whether a company should enter a new market or launch a new product. The analytical structure evaluates market attractiveness, the company's capability to compete, the competitive dynamics, and the financial returns of different entry modes. Chapter 6 addresses this type.
+Market entry cases ask whether a company should enter a new market or launch a new product. The analytical structure evaluates market attractiveness, the company's capability to compete, the competitive dynamics, and the financial returns of different entry modes. Chapter 5 addresses market entry cases, and Chapter 6 addresses new product introduction cases.
 
-Growth cases present a company with a specific growth target and ask how to achieve it. The analytical structure uses the Ansoff Matrix to identify the strategy space and then evaluates specific mechanisms — revenue per user growth, user base expansion, inorganic options — against capability and financial feasibility. Chapter 9 addresses this type.
+Growth cases present a company with a specific growth target and ask how to achieve it. The analytical structure uses the Ansoff Matrix to identify the strategy space and then evaluates specific mechanisms — revenue per user growth, user base expansion, inorganic options — against capability and financial feasibility. Chapter 8 addresses this type.
 
 M&A and due diligence cases ask whether a company should acquire another business, or whether a private equity fund should invest. The analytical structure evaluates standalone value, synergies, acquisition premium, and integration costs, with non-financial cultural and organizational factors as critical complements to the financial analysis.
 

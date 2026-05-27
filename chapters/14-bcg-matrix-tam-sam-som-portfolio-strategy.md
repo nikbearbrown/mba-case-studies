@@ -1,4 +1,4 @@
-# Chapter 15 — BCG Matrix, TAM/SAM/SOM, and Portfolio Strategy
+# Chapter 14 — BCG Matrix, TAM/SAM/SOM, and Portfolio Strategy
 
 *Why capital allocation by intuition is almost always wrong, and what the cash flow logic of a portfolio actually looks like.*
 

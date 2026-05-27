@@ -1,4 +1,4 @@
-# Chapter 9 — Growth Framework
+# Chapter 8 — Growth Framework
 
 *Why growth is the output of mechanisms, and why confusing the target for the theory is how strategies fail.*
 

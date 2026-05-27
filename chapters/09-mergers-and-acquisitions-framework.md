@@ -1,4 +1,4 @@
-# Chapter 10 — Mergers & Acquisitions Framework
+# Chapter 9 — Mergers & Acquisitions Framework
 
 *Why the largest deal in history destroyed almost everything it bought.*
 

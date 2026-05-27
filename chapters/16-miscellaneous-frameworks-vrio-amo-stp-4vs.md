@@ -1,4 +1,4 @@
-# Chapter 17 — Miscellaneous Frameworks: VRIO, AMO, STP, and 4V's
+# Chapter 16 — Miscellaneous Frameworks: VRIO, AMO, STP, and 4V's
 *The Tools That Fit Everywhere — and What They're Actually Measuring.*
 
 Every toolkit has a miscellaneous drawer.

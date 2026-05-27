@@ -1,4 +1,4 @@
-# Chapter 5 — Value Chain Analysis
+# Chapter 4 — Value Chain Analysis
 *Where the $135 Goes — and Where It Disappears.*
 
 Pick any company that makes a physical product — say, a running shoe. Raw materials come in one end: rubber, foam, synthetic fabric, thread. A finished shoe comes out the other. Between those two points, something happens that is worth a great deal more than the sum of its inputs. The rubber and foam and fabric, assembled in the right configuration, by the right process, marketed to the right person through the right channel, becomes something a consumer will pay $150 for. The materials themselves cost perhaps $15. What accounts for the other $135?

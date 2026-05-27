@@ -1,4 +1,4 @@
-# Chapter 11 — Due Diligence Framework
+# Chapter 10 — Due Diligence Framework
 *The Model Was Right About the Numbers. It Was Wrong About What the Numbers Meant.*
 
 In 2012, a private equity firm acquired a healthcare services company for $1.8 billion. The target had strong revenue growth, improving margins, and a defensible position in a fragmented market. The deal team had done thorough financial analysis. The model was clean. The strategic logic was sound.
